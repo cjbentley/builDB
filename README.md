@@ -12,5 +12,8 @@ Long-term engineering projects need long-lasting support and historical data ret
 ### Flexible.
 Modular design allows builDB to cover as much - or as little - of a project as needed. Track progress, labour, materials, whatever you want. Or don't - builDB is designed to scale.
 
+### Highly available and scalable.
+Often, projects take place in areas without stable internet connections. builDB aims to allow fast access to network resources even in such restricted on-site environments - while still allowing access to these same resources in the office. This HA design allows builDB to be used on as few or as many projects as you wish - perfect for small and large companies alike. 
+
 ### Automated reporting with real-time tracking.
 Relationships between different metrics can be defined and compiled into reports at the push of a button. See progress as it's added with real-time updating and calculation. 
